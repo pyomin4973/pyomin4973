@@ -1,4 +1,15 @@
-### Hi there 👋
+<div align ="center">
+  ### Hi there 👋 
+  I'm a BackEnd developer.
+  My main skills are Spring Boot.
+ I am actively seeking to learn and grow!
+  
+  #
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pyomin4973&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyomin4973&layout=compact&theme=tokyonight)
+
+</div>
 
 <!--
 **pyomin4973/pyomin4973** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
