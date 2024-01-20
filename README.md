@@ -1,8 +1,8 @@
 <div align ="center">
-  ### Hi there 👋 
+  Hi there 👋 
   I'm a BackEnd developer.
   My main skills are Spring Boot.
- I am actively seeking to learn and grow!
+  I am actively seeking to learn and grow!
   
   #
   
