@@ -3,6 +3,12 @@
   I'm a BackEnd developer.
   My main skills are Spring Boot.
   I am actively seeking to learn and grow!
+
+
+  Tools
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
   
   #
   
